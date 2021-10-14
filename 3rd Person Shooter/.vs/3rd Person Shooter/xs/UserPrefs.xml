@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B7BD3BC6-BD44-DCA9-145E-89E034758415}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerActions.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerActions.cs" Line="76" Column="21" />
+      <File FileName="Assets/Scripts/SwitchVCam.cs" Line="23" Column="35" />
+      <File FileName="Assets/Scripts/BulletAction.cs" Line="32" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5f88e92c-04d8-4257-af10-81eff313b1f3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
